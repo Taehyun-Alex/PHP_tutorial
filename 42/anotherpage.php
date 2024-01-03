@@ -1,6 +1,8 @@
 <?php
 
-include 'header.inc.php';
 
-echo $var1;
+require 'header.inc.php';
+
+
+echo 'Var1 is '.$var1;
 ?>
